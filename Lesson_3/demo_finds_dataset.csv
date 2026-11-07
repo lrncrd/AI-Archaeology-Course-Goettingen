@@ -1,0 +1,307 @@
+find_id,site,context,period,date_from,date_to,material,count,weight_g,lon,lat
+F0001,Musterdorf,MUS-101,Roman Iron Age,0,375,metal,3,32.0,9.8996,51.49707
+F0002,Musterdorf,MUS-101,Roman Iron Age,0,375,bone,6,40.0,9.90182,51.50053
+F0003,Musterdorf,MUS-101,Roman Iron Age,0,375,pottery,9,148.1,9.89872,51.50274
+F0004,Musterdorf,MUS-101,Roman Iron Age,0,375,pottery,22,614.5,9.89922,51.50339
+F0005,Musterdorf,MUS-102,Medieval,500,1500,bone,10,63.9,9.90151,51.49841
+F0006,Musterdorf,MUS-102,Medieval,500,1500,pottery,9,153.5,9.90254,51.49961
+F0007,Musterdorf,MUS-102,Medieval,500,1500,pottery,4,38.0,9.89953,51.50086
+F0008,Musterdorf,MUS-102,Medieval,500,1500,metal,3,50.3,9.89703,51.49875
+F0009,Musterdorf,MUS-103,Roman Iron Age,0,375,bone,1,4.4,9.8971,51.49887
+F0010,Musterdorf,MUS-104,Roman Iron Age,0,375,pottery,2,27.7,9.90063,51.49845
+F0011,Musterdorf,MUS-105,Iron Age,-800,0,pottery,5,138.8,9.90076,51.49867
+F0012,Musterdorf,MUS-105,Iron Age,-800,0,pottery,2,38.4,9.89833,51.49877
+F0013,Musterdorf,MUS-105,Iron Age,-800,0,metal,4,86.3,9.90081,51.49819
+F0014,Musterdorf,MUS-106,Iron Age,-800,0,pottery,20,526.0,9.89337,51.50201
+F0015,Musterdorf,MUS-106,Iron Age,-800,0,pottery,6,104.7,9.89994,51.49692
+F0016,Musterdorf,MUS-106,Iron Age,-800,0,pottery,3,57.7,9.90076,51.50124
+F0017,Musterdorf,MUS-107,Iron Age,-800,0,pottery,6,154.7,9.90036,51.50006
+F0018,Musterdorf,MUS-107,Iron Age,-800,0,metal,7,150.0,9.89845,51.50208
+F0019,Musterdorf,MUS-107,Iron Age,-800,0,metal,12,127.5,9.90305,51.49597
+F0020,Musterdorf,MUS-108,Roman Iron Age,0,375,pottery,4,104.2,9.90212,51.49903
+F0021,Musterdorf,MUS-108,Roman Iron Age,0,375,pottery,3,46.2,9.8991,51.49804
+F0022,Musterdorf,MUS-108,Roman Iron Age,0,375,bone,8,76.4,9.90413,51.50111
+F0023,Musterdorf,MUS-108,Roman Iron Age,0,375,charcoal,2,2.3,9.89386,51.5023
+F0024,Musterdorf,MUS-109,Neolithic,-5000,-2200,pottery,3,31.3,9.89721,51.49982
+F0025,Musterdorf,MUS-109,Neolithic,-5000,-2200,pottery,5,102.1,9.89872,51.49994
+F0026,Musterdorf,MUS-109,Neolithic,-5000,-2200,pottery,6,100.1,9.89503,51.49882
+F0027,Musterdorf,MUS-109,Neolithic,-5000,-2200,bone,7,42.2,9.89619,51.504
+F0028,Musterdorf,MUS-110,Medieval,500,1500,pottery,4,78.0,9.89569,51.49861
+F0029,Musterdorf,MUS-111,Iron Age,-800,0,flint,8,35.0,9.89952,51.49945
+F0030,Musterdorf,MUS-112,Roman Iron Age,0,375,pottery,3,77.1,9.90658,51.50201
+F0031,Musterdorf,MUS-112,Roman Iron Age,0,375,pottery,5,120.0,9.90134,51.49757
+F0032,Musterdorf,MUS-112,Roman Iron Age,0,375,bone,15,93.3,9.89276,51.50429
+F0033,Musterdorf,MUS-113,Bronze Age,-2200,-800,metal,7,69.4,9.90479,51.49426
+F0034,Musterdorf,MUS-113,Bronze Age,-2200,-800,pottery,4,62.3,9.9022,51.49685
+F0035,Musterdorf,MUS-113,Bronze Age,-2200,-800,bone,7,56.2,9.90083,51.4988
+F0036,Musterdorf,MUS-113,Bronze Age,-2200,-800,bone,10,45.8,9.90506,51.50162
+F0037,Musterdorf,MUS-114,Roman Iron Age,0,375,metal,7,95.2,9.90225,51.49813
+F0038,Musterdorf,MUS-115,Neolithic,-5000,-2200,flint,2,16.8,9.9,51.50157
+F0039,Musterdorf,MUS-116,Bronze Age,-2200,-800,pottery,5,82.6,9.89642,51.49771
+F0040,Musterdorf,MUS-116,Bronze Age,-2200,-800,metal,3,64.6,9.90304,51.50144
+F0041,Musterdorf,MUS-116,Bronze Age,-2200,-800,bone,6,51.3,9.90268,51.50103
+F0042,Musterdorf,MUS-117,Medieval,500,1500,pottery,8,127.4,9.90387,51.50093
+F0043,Musterdorf,MUS-117,Medieval,500,1500,pottery,18,307.5,9.90116,51.49764
+F0044,Musterdorf,MUS-117,Medieval,500,1500,pottery,3,73.9,9.90496,51.49587
+F0045,Musterdorf,MUS-117,Medieval,500,1500,pottery,17,372.7,9.90283,51.49963
+F0046,Musterdorf,MUS-118,Roman Iron Age,0,375,pottery,9,228.9,9.89773,51.49782
+F0047,Musterdorf,MUS-118,Roman Iron Age,0,375,charcoal,4,11.9,9.89986,51.49991
+F0048,Musterdorf,MUS-118,Roman Iron Age,0,375,glass,6,14.7,9.89636,51.50248
+F0049,Musterdorf,MUS-119,Roman Iron Age,0,375,bone,3,29.8,9.90332,51.49848
+F0050,Musterdorf,MUS-119,Roman Iron Age,0,375,pottery,7,147.6,9.89569,51.49961
+F0051,Musterdorf,MUS-119,Roman Iron Age,0,375,bone,2,21.3,9.90107,51.50008
+F0052,Musterdorf,MUS-119,Roman Iron Age,0,375,charcoal,10,27.1,9.89898,51.50034
+F0053,Musterdorf,MUS-120,Roman Iron Age,0,375,bone,2,20.6,9.90055,51.50269
+F0054,Musterdorf,MUS-120,Roman Iron Age,0,375,metal,5,66.1,9.89637,51.49909
+F0055,Musterdorf,MUS-120,Roman Iron Age,0,375,pottery,4,57.0,9.89658,51.49802
+F0056,Musterdorf,MUS-121,Iron Age,-800,0,pottery,3,44.6,9.90056,51.49866
+F0057,Musterdorf,MUS-122,Roman Iron Age,0,375,pottery,4,49.3,9.90075,51.49941
+F0058,Musterdorf,MUS-122,Roman Iron Age,0,375,bone,5,33.2,9.90174,51.49912
+F0059,Musterdorf,MUS-122,Roman Iron Age,0,375,pottery,5,132.7,9.90018,51.50054
+F0060,Musterdorf,MUS-122,Roman Iron Age,0,375,pottery,4,86.6,9.89775,51.49649
+F0061,Musterdorf,MUS-123,Roman Iron Age,0,375,bone,22,137.6,9.90094,51.50216
+F0062,Musterdorf,MUS-123,Roman Iron Age,0,375,bone,3,17.9,9.89806,51.49949
+F0063,Musterdorf,MUS-123,Roman Iron Age,0,375,pottery,2,51.9,9.8995,51.49824
+F0064,Musterdorf,MUS-124,Medieval,500,1500,pottery,4,70.2,9.8954,51.50284
+F0065,Musterdorf,MUS-124,Medieval,500,1500,pottery,7,77.5,9.90699,51.50194
+F0066,Musterdorf,MUS-125,Medieval,500,1500,bone,14,52.8,9.90568,51.49835
+F0067,Musterdorf,MUS-126,Neolithic,-5000,-2200,pottery,4,70.2,9.90077,51.49873
+F0068,Musterdorf,MUS-126,Neolithic,-5000,-2200,pottery,13,314.5,9.89972,51.49855
+F0069,Musterdorf,MUS-126,Neolithic,-5000,-2200,metal,5,61.6,9.89924,51.49943
+F0070,Musterdorf,MUS-126,Neolithic,-5000,-2200,pottery,5,106.7,9.89819,51.50007
+F0071,Musterdorf,MUS-127,Iron Age,-800,0,pottery,10,151.2,9.90185,51.50176
+F0072,Musterdorf,MUS-128,Iron Age,-800,0,pottery,6,167.7,9.90185,51.50042
+F0073,Musterdorf,MUS-128,Iron Age,-800,0,pottery,5,100.5,9.9035,51.50092
+F0074,Musterdorf,MUS-129,Medieval,500,1500,pottery,5,63.6,9.9022,51.49886
+F0075,Musterdorf,MUS-129,Medieval,500,1500,pottery,4,113.1,9.89859,51.49832
+F0076,Musterdorf,MUS-129,Medieval,500,1500,charcoal,5,13.5,9.89717,51.49888
+F0077,Musterdorf,MUS-130,Bronze Age,-2200,-800,pottery,1,11.7,9.90127,51.49786
+F0078,Musterdorf,MUS-130,Bronze Age,-2200,-800,pottery,5,102.9,9.89956,51.49574
+F0079,Altenberg,ALT-101,Roman Iron Age,0,375,bone,10,43.1,10.10035,51.59999
+F0080,Altenberg,ALT-101,Roman Iron Age,0,375,pottery,8,185.8,10.09991,51.60153
+F0081,Altenberg,ALT-102,Neolithic,-5000,-2200,pottery,6,115.5,10.10353,51.59928
+F0082,Altenberg,ALT-102,Neolithic,-5000,-2200,pottery,6,118.6,10.10752,51.60023
+F0083,Altenberg,ALT-102,Neolithic,-5000,-2200,bone,2,10.0,10.10568,51.59816
+F0084,Altenberg,ALT-102,Neolithic,-5000,-2200,bone,11,65.9,10.09678,51.59971
+F0085,Altenberg,ALT-103,Bronze Age,-2200,-800,pottery,3,39.4,10.09723,51.60095
+F0086,Altenberg,ALT-103,Bronze Age,-2200,-800,flint,6,34.9,10.10442,51.59566
+F0087,Altenberg,ALT-103,Bronze Age,-2200,-800,pottery,3,36.4,10.09799,51.59616
+F0088,Altenberg,ALT-103,Bronze Age,-2200,-800,pottery,5,88.0,10.10491,51.5999
+F0089,Altenberg,ALT-104,Neolithic,-5000,-2200,bone,9,38.9,10.09677,51.59888
+F0090,Altenberg,ALT-104,Neolithic,-5000,-2200,flint,12,60.3,10.10102,51.59752
+F0091,Altenberg,ALT-104,Neolithic,-5000,-2200,pottery,3,73.0,10.09585,51.59922
+F0092,Altenberg,ALT-104,Neolithic,-5000,-2200,pottery,4,59.9,10.10158,51.60335
+F0093,Altenberg,ALT-105,Bronze Age,-2200,-800,pottery,5,46.3,10.10332,51.59898
+F0094,Altenberg,ALT-106,Iron Age,-800,0,metal,6,73.9,10.10085,51.59786
+F0095,Altenberg,ALT-106,Iron Age,-800,0,pottery,8,84.5,10.103,51.60137
+F0096,Altenberg,ALT-107,Roman Iron Age,0,375,pottery,9,166.2,10.10016,51.59931
+F0097,Altenberg,ALT-107,Roman Iron Age,0,375,bone,4,29.6,10.09968,51.60173
+F0098,Altenberg,ALT-107,Roman Iron Age,0,375,pottery,8,161.8,10.10048,51.60258
+F0099,Altenberg,ALT-107,Roman Iron Age,0,375,pottery,4,47.6,10.09491,51.59914
+F0100,Altenberg,ALT-108,Roman Iron Age,0,375,bone,9,92.4,10.09841,51.5993
+F0101,Altenberg,ALT-108,Roman Iron Age,0,375,pottery,3,64.3,10.09503,51.59851
+F0102,Altenberg,ALT-108,Roman Iron Age,0,375,glass,3,8.2,10.10119,51.60199
+F0103,Altenberg,ALT-108,Roman Iron Age,0,375,bone,13,100.6,10.09026,51.59859
+F0104,Altenberg,ALT-109,Medieval,500,1500,pottery,21,337.7,10.09827,51.60083
+F0105,Altenberg,ALT-109,Medieval,500,1500,pottery,3,74.9,10.09946,51.59798
+F0106,Altenberg,ALT-109,Medieval,500,1500,pottery,3,32.8,10.10199,51.60074
+F0107,Altenberg,ALT-110,Bronze Age,-2200,-800,flint,2,18.0,10.09446,51.60675
+F0108,Altenberg,ALT-110,Bronze Age,-2200,-800,pottery,9,119.9,10.09835,51.60169
+F0109,Altenberg,ALT-111,Bronze Age,-2200,-800,pottery,5,61.1,10.09817,51.59801
+F0110,Altenberg,ALT-111,Bronze Age,-2200,-800,flint,4,12.9,10.09922,51.60189
+F0111,Altenberg,ALT-111,Bronze Age,-2200,-800,pottery,3,70.9,10.10375,51.6001
+F0112,Altenberg,ALT-111,Bronze Age,-2200,-800,pottery,14,265.4,10.10405,51.60043
+F0113,Altenberg,ALT-112,Bronze Age,-2200,-800,charcoal,2,4.1,10.09684,51.6051
+F0114,Altenberg,ALT-112,Bronze Age,-2200,-800,bone,5,29.9,10.1004,51.59999
+F0115,Altenberg,ALT-112,Bronze Age,-2200,-800,pottery,1,25.2,10.0987,51.60104
+F0116,Altenberg,ALT-113,Neolithic,-5000,-2200,pottery,8,114.3,10.1044,51.59826
+F0117,Altenberg,ALT-113,Neolithic,-5000,-2200,pottery,2,49.3,10.09653,51.6
+F0118,Altenberg,ALT-113,Neolithic,-5000,-2200,bone,4,34.3,10.09767,51.59921
+F0119,Altenberg,ALT-113,Neolithic,-5000,-2200,pottery,2,42.1,10.10414,51.59895
+F0120,Altenberg,ALT-114,Roman Iron Age,0,375,metal,6,74.3,10.10026,51.60462
+F0121,Altenberg,ALT-114,Roman Iron Age,0,375,pottery,11,156.6,10.10056,51.60156
+F0122,Altenberg,ALT-114,Roman Iron Age,0,375,pottery,5,125.9,10.10249,51.60179
+F0123,Altenberg,ALT-115,Medieval,500,1500,pottery,7,155.4,10.09913,51.59767
+F0124,Altenberg,ALT-115,Medieval,500,1500,bone,11,49.3,10.10001,51.60014
+F0125,Altenberg,ALT-115,Medieval,500,1500,glass,3,9.7,10.10055,51.60023
+F0126,Altenberg,ALT-115,Medieval,500,1500,metal,4,44.6,10.09658,51.60144
+F0127,Altenberg,ALT-116,Neolithic,-5000,-2200,pottery,17,163.9,10.09808,51.60227
+F0128,Altenberg,ALT-116,Neolithic,-5000,-2200,pottery,21,433.4,10.10004,51.59839
+F0129,Altenberg,ALT-117,Roman Iron Age,0,375,pottery,9,258.7,10.09888,51.59726
+F0130,Altenberg,ALT-117,Roman Iron Age,0,375,pottery,11,275.3,10.09597,51.60034
+F0131,Altenberg,ALT-118,Neolithic,-5000,-2200,pottery,8,202.3,10.1057,51.60175
+F0132,Altenberg,ALT-119,Medieval,500,1500,pottery,2,33.6,10.10368,51.59831
+F0133,Altenberg,ALT-119,Medieval,500,1500,pottery,2,27.0,10.09984,51.597
+F0134,Altenberg,ALT-120,Neolithic,-5000,-2200,pottery,7,133.1,10.0984,51.60086
+F0135,Altenberg,ALT-120,Neolithic,-5000,-2200,flint,3,13.1,10.09752,51.59863
+F0136,Altenberg,ALT-121,Bronze Age,-2200,-800,bone,2,21.2,10.09959,51.60147
+F0137,Altenberg,ALT-121,Bronze Age,-2200,-800,pottery,5,55.9,10.10379,51.59949
+F0138,Altenberg,ALT-122,Neolithic,-5000,-2200,pottery,7,131.8,10.09695,51.60063
+F0139,Altenberg,ALT-122,Neolithic,-5000,-2200,bone,6,63.4,10.0997,51.59813
+F0140,Altenberg,ALT-123,Bronze Age,-2200,-800,pottery,5,49.1,10.10394,51.60099
+F0141,Altenberg,ALT-124,Roman Iron Age,0,375,metal,4,64.1,10.1018,51.59966
+F0142,Altenberg,ALT-124,Roman Iron Age,0,375,pottery,6,94.1,10.09994,51.60025
+F0143,Altenberg,ALT-124,Roman Iron Age,0,375,pottery,11,274.6,10.10293,51.60369
+F0144,Altenberg,ALT-124,Roman Iron Age,0,375,pottery,5,92.2,10.09902,51.5995
+F0145,Altenberg,ALT-125,Neolithic,-5000,-2200,pottery,9,109.6,10.10247,51.60012
+F0146,Altenberg,ALT-125,Neolithic,-5000,-2200,flint,15,141.6,10.09889,51.59888
+F0147,Altenberg,ALT-126,Bronze Age,-2200,-800,pottery,5,137.4,10.10209,51.59973
+F0148,Altenberg,ALT-126,Bronze Age,-2200,-800,metal,12,183.7,10.10277,51.59934
+F0149,Altenberg,ALT-126,Bronze Age,-2200,-800,metal,6,95.5,10.0932,51.60009
+F0150,Altenberg,ALT-127,Neolithic,-5000,-2200,pottery,16,249.9,10.1033,51.60147
+F0151,Altenberg,ALT-127,Neolithic,-5000,-2200,bone,6,45.5,10.09684,51.59858
+F0152,Altenberg,ALT-127,Neolithic,-5000,-2200,metal,16,174.3,10.09905,51.60177
+F0153,Altenberg,ALT-128,Medieval,500,1500,pottery,3,60.2,10.10588,51.60185
+F0154,Altenberg,ALT-129,Bronze Age,-2200,-800,metal,5,89.7,10.09877,51.60173
+F0155,Altenberg,ALT-129,Bronze Age,-2200,-800,pottery,6,154.6,10.10053,51.59813
+F0156,Altenberg,ALT-130,Bronze Age,-2200,-800,pottery,20,379.4,10.09829,51.59807
+F0157,Altenberg,ALT-130,Bronze Age,-2200,-800,pottery,2,45.7,10.09935,51.59702
+F0158,Altenberg,ALT-130,Bronze Age,-2200,-800,bone,23,158.3,10.09748,51.59727
+F0159,Altenberg,ALT-130,Bronze Age,-2200,-800,pottery,4,77.3,10.10264,51.59833
+F0160,Kleinfeld,KLE-101,Bronze Age,-2200,-800,charcoal,6,6.4,9.69595,51.3999
+F0161,Kleinfeld,KLE-101,Bronze Age,-2200,-800,pottery,2,57.5,9.69499,51.39702
+F0162,Kleinfeld,KLE-101,Bronze Age,-2200,-800,pottery,8,217.9,9.70317,51.3992
+F0163,Kleinfeld,KLE-102,Iron Age,-800,0,metal,28,437.0,9.69443,51.39885
+F0164,Kleinfeld,KLE-102,Iron Age,-800,0,charcoal,12,35.7,9.69871,51.40173
+F0165,Kleinfeld,KLE-102,Iron Age,-800,0,pottery,3,74.3,9.70602,51.39582
+F0166,Kleinfeld,KLE-103,Bronze Age,-2200,-800,flint,5,20.5,9.69791,51.40075
+F0167,Kleinfeld,KLE-103,Bronze Age,-2200,-800,flint,15,61.8,9.69633,51.39919
+F0168,Kleinfeld,KLE-104,Bronze Age,-2200,-800,pottery,6,107.9,9.70307,51.39708
+F0169,Kleinfeld,KLE-105,Iron Age,-800,0,flint,4,37.0,9.7021,51.40042
+F0170,Kleinfeld,KLE-105,Iron Age,-800,0,pottery,10,118.9,9.6967,51.39691
+F0171,Kleinfeld,KLE-105,Iron Age,-800,0,metal,11,93.3,9.70055,51.39867
+F0172,Kleinfeld,KLE-105,Iron Age,-800,0,bone,8,68.3,9.69358,51.40293
+F0173,Kleinfeld,KLE-106,Bronze Age,-2200,-800,bone,6,39.4,9.6993,51.40064
+F0174,Kleinfeld,KLE-106,Bronze Age,-2200,-800,pottery,8,225.0,9.69605,51.39908
+F0175,Kleinfeld,KLE-106,Bronze Age,-2200,-800,pottery,9,184.1,9.70071,51.40182
+F0176,Kleinfeld,KLE-106,Bronze Age,-2200,-800,pottery,1,16.7,9.70023,51.40122
+F0177,Kleinfeld,KLE-107,Bronze Age,-2200,-800,bone,8,36.1,9.69929,51.3994
+F0178,Kleinfeld,KLE-107,Bronze Age,-2200,-800,bone,11,48.9,9.70332,51.39725
+F0179,Kleinfeld,KLE-107,Bronze Age,-2200,-800,pottery,6,63.2,9.70104,51.40562
+F0180,Kleinfeld,KLE-107,Bronze Age,-2200,-800,bone,7,54.4,9.70259,51.4038
+F0181,Kleinfeld,KLE-108,Bronze Age,-2200,-800,pottery,5,70.3,9.69926,51.39866
+F0182,Kleinfeld,KLE-108,Bronze Age,-2200,-800,bone,10,89.2,9.69829,51.40211
+F0183,Kleinfeld,KLE-108,Bronze Age,-2200,-800,pottery,9,256.9,9.70642,51.40008
+F0184,Kleinfeld,KLE-108,Bronze Age,-2200,-800,pottery,6,67.8,9.70573,51.40106
+F0185,Kleinfeld,KLE-109,Bronze Age,-2200,-800,pottery,4,72.6,9.69833,51.40234
+F0186,Kleinfeld,KLE-109,Bronze Age,-2200,-800,pottery,5,68.2,9.7025,51.39832
+F0187,Kleinfeld,KLE-109,Bronze Age,-2200,-800,flint,17,131.9,9.6981,51.3998
+F0188,Kleinfeld,KLE-109,Bronze Age,-2200,-800,pottery,1,14.2,9.70622,51.39953
+F0189,Kleinfeld,KLE-110,Iron Age,-800,0,charcoal,3,3.1,9.69557,51.39659
+F0190,Kleinfeld,KLE-111,Bronze Age,-2200,-800,pottery,1,14.8,9.70008,51.39917
+F0191,Kleinfeld,KLE-111,Bronze Age,-2200,-800,flint,2,12.2,9.701,51.40111
+F0192,Kleinfeld,KLE-111,Bronze Age,-2200,-800,pottery,20,281.4,9.70175,51.40153
+F0193,Kleinfeld,KLE-111,Bronze Age,-2200,-800,metal,8,144.2,9.69605,51.39862
+F0194,Kleinfeld,KLE-112,Bronze Age,-2200,-800,bone,3,19.9,9.70093,51.40013
+F0195,Kleinfeld,KLE-112,Bronze Age,-2200,-800,flint,7,51.8,9.698,51.39926
+F0196,Kleinfeld,KLE-112,Bronze Age,-2200,-800,bone,4,38.0,9.69989,51.40327
+F0197,Kleinfeld,KLE-112,Bronze Age,-2200,-800,pottery,12,151.0,9.69892,51.40186
+F0198,Kleinfeld,KLE-113,Iron Age,-800,0,pottery,6,127.3,9.70761,51.40122
+F0199,Kleinfeld,KLE-114,Neolithic,-5000,-2200,bone,2,21.8,9.70018,51.39835
+F0200,Kleinfeld,KLE-114,Neolithic,-5000,-2200,pottery,2,29.8,9.70023,51.40016
+F0201,Kleinfeld,KLE-115,Iron Age,-800,0,bone,18,179.6,9.69787,51.40157
+F0202,Kleinfeld,KLE-116,Bronze Age,-2200,-800,pottery,5,113.8,9.69816,51.39935
+F0203,Kleinfeld,KLE-116,Bronze Age,-2200,-800,bone,33,344.4,9.69455,51.39872
+F0204,Kleinfeld,KLE-117,Bronze Age,-2200,-800,pottery,3,40.8,9.70146,51.40238
+F0205,Kleinfeld,KLE-117,Bronze Age,-2200,-800,charcoal,5,8.8,9.69823,51.40046
+F0206,Kleinfeld,KLE-117,Bronze Age,-2200,-800,pottery,11,150.2,9.70006,51.39732
+F0207,Kleinfeld,KLE-117,Bronze Age,-2200,-800,metal,4,91.1,9.70216,51.40313
+F0208,Kleinfeld,KLE-118,Bronze Age,-2200,-800,flint,3,25.7,9.70233,51.39627
+F0209,Kleinfeld,KLE-118,Bronze Age,-2200,-800,pottery,6,154.9,9.69944,51.40332
+F0210,Kleinfeld,KLE-119,Medieval,500,1500,pottery,11,232.5,9.70022,51.39981
+F0211,Kleinfeld,KLE-120,Bronze Age,-2200,-800,pottery,7,76.4,9.69846,51.40123
+F0212,Kleinfeld,KLE-120,Bronze Age,-2200,-800,pottery,12,113.3,9.70296,51.4003
+F0213,Kleinfeld,KLE-120,Bronze Age,-2200,-800,pottery,3,55.2,9.70173,51.39761
+F0214,Kleinfeld,KLE-121,Iron Age,-800,0,pottery,5,118.2,9.69698,51.40062
+F0215,Kleinfeld,KLE-122,Iron Age,-800,0,flint,4,37.4,9.70185,51.40007
+F0216,Kleinfeld,KLE-123,Neolithic,-5000,-2200,pottery,11,127.7,9.70371,51.39789
+F0217,Kleinfeld,KLE-124,Bronze Age,-2200,-800,pottery,6,72.0,9.69422,51.39995
+F0218,Kleinfeld,KLE-124,Bronze Age,-2200,-800,pottery,8,215.1,9.70175,51.39901
+F0219,Kleinfeld,KLE-125,Bronze Age,-2200,-800,pottery,4,62.0,9.6983,51.39962
+F0220,Kleinfeld,KLE-126,Neolithic,-5000,-2200,pottery,2,49.0,9.6996,51.39898
+F0221,Kleinfeld,KLE-126,Neolithic,-5000,-2200,pottery,5,117.1,9.69969,51.39821
+F0222,Kleinfeld,KLE-126,Neolithic,-5000,-2200,pottery,5,61.2,9.69814,51.39942
+F0223,Kleinfeld,KLE-127,Bronze Age,-2200,-800,charcoal,5,11.8,9.70477,51.4007
+F0224,Kleinfeld,KLE-128,Iron Age,-800,0,flint,2,15.5,9.70338,51.39893
+F0225,Kleinfeld,KLE-129,Roman Iron Age,0,375,charcoal,2,3.6,9.69384,51.39758
+F0226,Kleinfeld,KLE-129,Roman Iron Age,0,375,pottery,30,733.6,9.69929,51.39811
+F0227,Kleinfeld,KLE-130,Bronze Age,-2200,-800,pottery,14,237.1,9.70484,51.39976
+F0228,Kleinfeld,KLE-130,Bronze Age,-2200,-800,pottery,6,99.7,9.70133,51.40255
+F0229,Kleinfeld,KLE-130,Bronze Age,-2200,-800,pottery,10,91.3,9.69707,51.39941
+F0230,Kleinfeld,KLE-130,Bronze Age,-2200,-800,metal,2,19.7,9.69562,51.39724
+F0231,Hohenrode,HOH-101,Iron Age,-800,0,pottery,3,63.9,10.29625,51.69951
+F0232,Hohenrode,HOH-101,Iron Age,-800,0,pottery,3,59.6,10.30052,51.7017
+F0233,Hohenrode,HOH-102,Iron Age,-800,0,bone,11,44.6,10.29949,51.69951
+F0234,Hohenrode,HOH-102,Iron Age,-800,0,bone,9,54.9,10.30342,51.69778
+F0235,Hohenrode,HOH-102,Iron Age,-800,0,pottery,4,103.7,10.3055,51.70289
+F0236,Hohenrode,HOH-103,Iron Age,-800,0,pottery,5,63.1,10.30369,51.70371
+F0237,Hohenrode,HOH-103,Iron Age,-800,0,pottery,3,44.9,10.30049,51.69847
+F0238,Hohenrode,HOH-103,Iron Age,-800,0,metal,6,77.5,10.29529,51.70111
+F0239,Hohenrode,HOH-104,Bronze Age,-2200,-800,pottery,45,709.9,10.2945,51.70206
+F0240,Hohenrode,HOH-104,Bronze Age,-2200,-800,pottery,3,27.9,10.30019,51.69681
+F0241,Hohenrode,HOH-104,Bronze Age,-2200,-800,pottery,3,85.6,10.29954,51.70109
+F0242,Hohenrode,HOH-105,Iron Age,-800,0,pottery,3,74.1,10.30252,51.69878
+F0243,Hohenrode,HOH-105,Iron Age,-800,0,pottery,3,61.8,10.30008,51.69781
+F0244,Hohenrode,HOH-105,Iron Age,-800,0,pottery,2,45.2,10.29583,51.70163
+F0245,Hohenrode,HOH-105,Iron Age,-800,0,pottery,2,45.5,10.29706,51.70205
+F0246,Hohenrode,HOH-106,Iron Age,-800,0,pottery,24,523.9,10.30144,51.6943
+F0247,Hohenrode,HOH-107,Medieval,500,1500,pottery,3,47.5,10.29622,51.69925
+F0248,Hohenrode,HOH-108,Medieval,500,1500,bone,12,119.2,10.29979,51.7001
+F0249,Hohenrode,HOH-108,Medieval,500,1500,pottery,7,168.8,10.29669,51.6991
+F0250,Hohenrode,HOH-108,Medieval,500,1500,pottery,4,46.1,10.29899,51.69877
+F0251,Hohenrode,HOH-108,Medieval,500,1500,charcoal,14,33.2,10.2983,51.69902
+F0252,Hohenrode,HOH-109,Bronze Age,-2200,-800,bone,38,368.8,10.29712,51.70127
+F0253,Hohenrode,HOH-109,Bronze Age,-2200,-800,bone,21,120.7,10.30002,51.70018
+F0254,Hohenrode,HOH-109,Bronze Age,-2200,-800,bone,6,23.6,10.30087,51.69734
+F0255,Hohenrode,HOH-109,Bronze Age,-2200,-800,bone,13,112.7,10.29555,51.69415
+F0256,Hohenrode,HOH-110,Iron Age,-800,0,bone,4,34.3,10.30376,51.69673
+F0257,Hohenrode,HOH-110,Iron Age,-800,0,pottery,7,174.0,10.30168,51.69894
+F0258,Hohenrode,HOH-110,Iron Age,-800,0,pottery,4,85.2,10.29791,51.70155
+F0259,Hohenrode,HOH-110,Iron Age,-800,0,flint,6,22.1,10.30186,51.70089
+F0260,Hohenrode,HOH-111,Iron Age,-800,0,flint,6,44.4,10.30508,51.70301
+F0261,Hohenrode,HOH-111,Iron Age,-800,0,pottery,6,168.5,10.30148,51.69894
+F0262,Hohenrode,HOH-111,Iron Age,-800,0,pottery,8,163.8,10.30368,51.70159
+F0263,Hohenrode,HOH-111,Iron Age,-800,0,pottery,9,106.1,10.30171,51.69988
+F0264,Hohenrode,HOH-112,Bronze Age,-2200,-800,metal,6,111.5,10.29521,51.69946
+F0265,Hohenrode,HOH-112,Bronze Age,-2200,-800,pottery,5,85.9,10.29665,51.70206
+F0266,Hohenrode,HOH-112,Bronze Age,-2200,-800,pottery,5,125.5,10.30445,51.69922
+F0267,Hohenrode,HOH-113,Medieval,500,1500,pottery,5,106.1,10.29743,51.70063
+F0268,Hohenrode,HOH-114,Bronze Age,-2200,-800,bone,2,14.1,10.29936,51.69747
+F0269,Hohenrode,HOH-114,Bronze Age,-2200,-800,pottery,10,245.9,10.30179,51.70235
+F0270,Hohenrode,HOH-115,Medieval,500,1500,pottery,7,98.8,10.30302,51.6996
+F0271,Hohenrode,HOH-116,Neolithic,-5000,-2200,pottery,6,151.6,10.2963,51.69768
+F0272,Hohenrode,HOH-116,Neolithic,-5000,-2200,charcoal,2,5.3,10.29998,51.69573
+F0273,Hohenrode,HOH-116,Neolithic,-5000,-2200,flint,3,22.9,10.30269,51.704
+F0274,Hohenrode,HOH-117,Iron Age,-800,0,pottery,4,81.9,10.29866,51.69943
+F0275,Hohenrode,HOH-117,Iron Age,-800,0,pottery,22,322.8,10.30131,51.69986
+F0276,Hohenrode,HOH-117,Iron Age,-800,0,bone,7,55.9,10.30091,51.70211
+F0277,Hohenrode,HOH-118,Iron Age,-800,0,glass,10,43.8,10.30139,51.69901
+F0278,Hohenrode,HOH-118,Iron Age,-800,0,pottery,5,110.6,10.30888,51.70154
+F0279,Hohenrode,HOH-118,Iron Age,-800,0,pottery,5,110.2,10.3011,51.701
+F0280,Hohenrode,HOH-118,Iron Age,-800,0,metal,2,45.8,10.30243,51.69956
+F0281,Hohenrode,HOH-119,Neolithic,-5000,-2200,pottery,4,75.3,10.30047,51.70071
+F0282,Hohenrode,HOH-119,Neolithic,-5000,-2200,charcoal,12,19.1,10.29565,51.70405
+F0283,Hohenrode,HOH-120,Neolithic,-5000,-2200,metal,5,95.4,10.29986,51.70008
+F0284,Hohenrode,HOH-121,Neolithic,-5000,-2200,charcoal,3,9.5,10.30181,51.69677
+F0285,Hohenrode,HOH-121,Neolithic,-5000,-2200,charcoal,11,28.9,10.29625,51.69963
+F0286,Hohenrode,HOH-122,Iron Age,-800,0,pottery,16,267.7,10.30233,51.70006
+F0287,Hohenrode,HOH-122,Iron Age,-800,0,flint,3,22.8,10.29712,51.7013
+F0288,Hohenrode,HOH-122,Iron Age,-800,0,bone,3,10.7,10.30019,51.70018
+F0289,Hohenrode,HOH-123,Medieval,500,1500,pottery,4,51.5,10.30212,51.69838
+F0290,Hohenrode,HOH-123,Medieval,500,1500,pottery,9,235.2,10.29778,51.69938
+F0291,Hohenrode,HOH-124,Iron Age,-800,0,pottery,3,33.8,10.30575,51.70405
+F0292,Hohenrode,HOH-125,Medieval,500,1500,pottery,4,66.2,10.29796,51.69818
+F0293,Hohenrode,HOH-125,Medieval,500,1500,bone,8,41.1,10.29873,51.70155
+F0294,Hohenrode,HOH-125,Medieval,500,1500,pottery,12,224.6,10.29581,51.69863
+F0295,Hohenrode,HOH-126,Bronze Age,-2200,-800,charcoal,13,24.5,10.29975,51.70163
+F0296,Hohenrode,HOH-127,Bronze Age,-2200,-800,pottery,3,78.6,10.29757,51.70037
+F0297,Hohenrode,HOH-127,Bronze Age,-2200,-800,metal,6,85.5,10.2982,51.7015
+F0298,Hohenrode,HOH-127,Bronze Age,-2200,-800,pottery,4,49.3,10.29615,51.70124
+F0299,Hohenrode,HOH-128,Iron Age,-800,0,pottery,6,151.6,10.30332,51.69984
+F0300,Hohenrode,HOH-128,Iron Age,-800,0,charcoal,1,1.8,10.29931,51.70439
+F0301,Hohenrode,HOH-128,Iron Age,-800,0,pottery,7,130.0,10.30189,51.70265
+F0302,Hohenrode,HOH-129,Iron Age,-800,0,bone,4,20.5,10.29826,51.69718
+F0303,Hohenrode,HOH-129,Iron Age,-800,0,glass,5,9.9,10.30081,51.69704
+F0304,Hohenrode,HOH-130,Neolithic,-5000,-2200,bone,12,133.9,10.30342,51.70019
+F0305,Hohenrode,HOH-130,Neolithic,-5000,-2200,pottery,7,68.5,10.30054,51.70145
+F0306,Hohenrode,HOH-130,Neolithic,-5000,-2200,pottery,14,329.0,10.30085,51.69939

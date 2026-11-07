@@ -1,0 +1,12 @@
+--- Ask these one at a time (new message each time) ---
+
+How many letters 's' are in the word Varusschlacht?
+
+Write Varusschlacht backwards.
+
+What is 4,817 × 2,936?
+
+What is today's date?
+(then ask again with Tools -> Web Search switched on)
+
+I want to wash my car. The car wash is 50 meters away. Should I walk or drive?

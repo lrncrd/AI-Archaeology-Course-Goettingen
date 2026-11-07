@@ -1,0 +1,14 @@
+STEP 1 - Pick your style with the LAST DIGIT of your student number (Matrikelnummer):
+0-1 = Windows 95 | 2-3 = classic Macintosh (1990s) | 4 = MS-DOS green terminal | 5 = Windows XP
+6 = Commodore 64 / 1980s home computer | 7 = futuristic spaceship computer
+8 = medieval manuscript (parchment, ink, illuminated letters) | 9 = a style you invent yourself
+
+STEP 2 - Replace [YOUR STYLE] below and send the prompt:
+
+Create a single HTML file (HTML, CSS and JavaScript in one file, no external libraries, no images from the internet) called "Gänseliesel OS": a fake operating system themed on the city of Göttingen, in the style of [YOUR STYLE].
+
+Requirements:
+- A boot screen ("Gänseliesel OS is starting…") and a desktop with a taskbar or menu, and a clock.
+- At least 6 icons or menu entries that open windows you can move around, for example: the Gänseliesel fountain (and the tradition of kissing her after a doctorate), Gauss and Weber's telegraph (1833), Lichtenberg's aphorisms, the "Göttinger Sieben" (1837), the Nobel laureates of Göttingen, a "Mensa menu" app, a weather app where it always rains, a bike-parking app where all spaces are taken.
+- Fill it with real facts about Göttingen and with jokes. Every fact must be correct.
+- A FUN GAME that really works, themed on Göttingen: for example help the Gänseliesel catch her runaway geese, find a free bike parking space before the lecture starts, dodge the rain on the way to the Mensa, or a quiz on Göttingen's history. It needs a score, a way to lose or win, and a restart button.

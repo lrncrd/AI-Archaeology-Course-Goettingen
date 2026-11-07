@@ -1,0 +1,1 @@
+Here is demo_finds_dataset.csv. Make three charts: (1) the number of finds per period, in chronological order; (2) the materials per site, as stacked bars; (3) a map of the finds, coloured by period. Save them as PNG and tell me what you see.
